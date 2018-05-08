@@ -1,0 +1,4 @@
+music.driver=com.mysql.jdbc.Driver
+music.url=jdbc:mysql://47.52.142.31:3306/music?autoReconnect=true&amp;characterEncoding=utf-8&allowMultiQueries=true&amp;autoReconnectForPools=true&amp;failOverReadOnly=false
+music.username=root
+music.password=123456
